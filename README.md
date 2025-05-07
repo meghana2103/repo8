@@ -1,7 +1,9 @@
 Farmer Assistant Portal
+
 The Farmer Assistant Portal is a full-stack web application built to support farmers by enabling direct interaction with buyers and agricultural experts. The platform helps farmers receive personalized guidance, sell their produce, and access important agricultural resources.
 
 Key Features
+
 Role-Based Access:
 
 Admin: Manages all user roles and system data.
@@ -23,6 +25,7 @@ Secure login and registration for each role
 Admin dashboard for complete platform control
 
 Tech Stack
+
 Frontend: React.js
 
 Backend: Java (Spring Boot)
